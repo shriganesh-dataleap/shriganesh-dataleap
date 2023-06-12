@@ -1,7 +1,7 @@
 ---
 title:  An Introduction to Every Deep Learning Algorithm
 author: Shriganesh
-date: 2023-08-08 11:33:00 +0800
+date: 2023-02-02 11:33:00 +0800
 categories: [Machine Learning]
 tags: [typography]
 pin: true

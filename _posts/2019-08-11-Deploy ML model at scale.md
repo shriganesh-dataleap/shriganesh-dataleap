@@ -1,7 +1,7 @@
 ---
 title: Deploying Machine Learning Models at Scale
 author: Shriganesh
-date: 2023-08-08 11:33:00 +0800
+date: 2023-02-02 11:33:00 +0800
 categories: [Machine Learning]
 tags: [typography]
 pin: true
